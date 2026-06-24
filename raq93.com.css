@@ -11,7 +11,7 @@
 }
 
 label.ae.label.label-primary {
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
 }
 
 
@@ -207,7 +207,7 @@ button.btn.btn-primary.hand.borderg.corner.fa.fa-ban {
 
 
 .label-primary, .btn-primary {
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
 }
 
 
@@ -296,7 +296,7 @@ button.btn.btn-default {
 }
 
 ul.nav.nav-tabs>li>a {
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
     margin: 0 0 0 13px;
     color: #fff;
     border: 0;
@@ -319,7 +319,7 @@ ul.nav.nav-tabs>li>a {
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
     background-color: #1f1f1f;
     border: 0;
     border-radius: 7px;
@@ -417,7 +417,7 @@ div#tlogins button.btn.btn-primary {
     position: inherit;
     border-color: #fff;
     font-family: jazeera,FontAwesome;
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
     margin-left: 5px;
 }
 
@@ -525,7 +525,7 @@ input#u1, input#u2, input#pass1, input#u3, input#pass2 {
 }
 
 #des0 {
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
 }
 
 .btn-des {
@@ -533,7 +533,7 @@ input#u1, input#u2, input#pass1, input#u3, input#pass2 {
     font-size: 13px!important;
     text-align: center!important;
     color: #fff!important;
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
 }
 
 #des555 {
@@ -628,7 +628,7 @@ button.btn {
 }
 
 .fr.borderg.minix {
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
     border-radius: 25px;
 	color: #fff!important;
 }
@@ -651,7 +651,7 @@ span.btn.fr.fa.fa-eye {
 
 span.flex-grow-1.dots {
     border-radius: 30px!important;
-    background-image: radial-gradient(circle,#728ea1,#728ea1,#728ea1)!important;
+    background-image: radial-gradient(circle,#07152a,#07152a,#063477)!important;
     text-align: center!important;
     color: aliceblue!important;
 }
