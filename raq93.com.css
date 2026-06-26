@@ -16,9 +16,11 @@ label.ae.label.label-primary {
 .th-room-item {
     text-align: left;
     width: 100%;
-    border-bottom: 4px solid #000000;
+    border-bottom: 1px solid #000000;
     padding: 0px 0 0px 3px;
     background-color: #ffffff;
+	    background-image: url(https://up6.cc/2026/06/178246497635731.png);
+    background-size: 100%;
 }
 
 
